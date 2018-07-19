@@ -2,7 +2,6 @@ import React from "react"
 import GooBlobs1 from './components/GooBlobs1'
 import TransitionRenderer from './TransitionRenderer'
 import s from './Transition.module.css'
-import IndexPage from '../../pages/';
 
 class Transition extends React.Component {
 
